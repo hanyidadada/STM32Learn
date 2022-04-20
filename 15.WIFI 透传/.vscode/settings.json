@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "bsp_usart.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "bsp_esp8266.h": "c",
+        "atomic": "cpp",
+        "cstdint": "cpp",
+        "*.def": "cpp",
+        "stdio.h": "c",
+        "bsp_systick.h": "c"
+    }
+}
